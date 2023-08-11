@@ -1,1 +1,0 @@
-# db-auto-test
